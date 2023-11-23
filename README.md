@@ -15,3 +15,8 @@ httpd -v
 Mysql Instalado
 
 mysql --version
+
+PHP Instaado
+
+php -v
+
