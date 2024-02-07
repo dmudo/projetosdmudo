@@ -20,3 +20,11 @@ PHP Instaado
 
 php -v
 
+
+--------------------------
+https://www.phpmyadmin.net/downloads/
+
+https://techviewleo.com/install-phpmyadmin-on-oracle-linux/
+
+dangelo.eti.br
+
